@@ -13,7 +13,7 @@ int main(void)
 	scanf("%f", &weight);      /* assume platinum is $1700 per ounce          */
 							   /* 14.5833 converts pounds  */
 	printf("I will summon the butler function.\n");
-	function(weight);
+	function();
 	printf("Yes. Bring me some tea and writeable DVDs.\n");
 	getchar();
 	return 0;
